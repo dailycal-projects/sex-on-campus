@@ -1,0 +1,25 @@
+{
+  "id": "18580413308",
+  "publishPath": "2018/sex-on-campus/",
+  "url": "http://projects.dailycal.org/2018/sex-on-campus/",
+  "timestamp": "2018-02-14T00:00-0700",
+  "dateline": "02/14/18 12:00 AM PST",
+  "share": {
+    "fbook": {
+      "card_title": "Sex on Campus",
+      "card_description": "UC Berkeley's independent student-run newspaper"
+    },
+    "twitter": {
+      "card_title": "Sex on Campus",
+      "share_tweet": "UC Berkeley's independent student-run newspaper"
+    },
+    "image": {
+      "url": "http://projects.dailycal.org/2018/sex-on-campus/images/share.jpg",
+      "alt": "<Text>",
+      "type": "image/jpeg",
+      "width": "600",
+      "height": "300"
+    },
+    "keywords": "Daily Cal, news, sex, public, university, campus"
+  }
+}
