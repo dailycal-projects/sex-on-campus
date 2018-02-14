@@ -7,4 +7,4 @@
 | Google Doc | [https://docs.google.com/document/d/1vGjrmXr4Ug2Nfb8PFjjRXYVPC7XHeQaMT2Jr0-05MfQ/edit](https://docs.google.com/document/d/1vGjrmXr4Ug2Nfb8PFjjRXYVPC7XHeQaMT2Jr0-05MfQ/edit) |
 
 
-©2017 The Daily Californian
+©2018 The Daily Californian
