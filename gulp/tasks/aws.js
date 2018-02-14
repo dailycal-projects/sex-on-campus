@@ -11,7 +11,7 @@ const path = require('path');
 const open = require('open');
 const revAll = require('gulp-rev-all');
 const querystring = require('querystring');
-const { argv } = require('yargs');
+const argv = require('yargs').argv;
 
 const prod = argv.prod || false
 

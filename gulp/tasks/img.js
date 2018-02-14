@@ -21,6 +21,8 @@ module.exports = () => {
           width: 1200,
           rename: { suffix: '-1200' },
         }, {
+          width: 1200,
+        }, {
           width: 1800,
           rename: { suffix: '-1800' },
         }],
