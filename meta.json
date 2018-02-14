@@ -6,17 +6,17 @@
   "dateline": "02/13/18 12:00 AM PST",
   "share": {
     "fbook": {
-      "card_title": "Sex on Campus",
+      "card_title": "Sex on campus",
       "card_description": "The Daily Californian is collecting stories about sexual encounters on campus."
     },
     "twitter": {
-      "card_title": "Sex on Campus",
+      "card_title": "Sex on campus",
       "card_description": "The Daily Californian is collecting stories about sexual encounters on campus.",
       "share_tweet": "The Daily Californian is collecting stories about sexual encounters on campus."
     },
     "image": {
       "url": "http://projects.dailycal.org/2018/sex-on-campus/images/share.jpg",
-      "alt": "Sex on Campus",
+      "alt": "Sex on campus",
       "type": "image/jpeg",
       "width": "1200",
       "height": "630"
