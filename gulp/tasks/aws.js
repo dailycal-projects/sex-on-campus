@@ -72,9 +72,10 @@ module.exports = (cb) => {
     .pipe(awspublish.reporter())
     .on('end', () => {
       setTimeout(() => {
-        const q = querystring.stringify({ q: meta.url });
+        const url = "http://" + awsBucket + "/" + meta.publishPath
+        const q = querystring.stringify({ q: url });
         open(`https://developers.facebook.com/tools/debug/sharing/?${q}`);
-        open(meta.url);
+        open(url);
       }, 1000);
     });
 };
