@@ -2,7 +2,7 @@
 
 | Title | meme-timeline |
 |-|-|
-| Developer    | [Ian MacGregor](imacgregor@dailycal.org) |
+| Developer    | [Ian MacGregor](imacgregor) |
 | Link | [http://projects.dailycal.org/2018/sex-on-campus/](http://projects.dailycal.org/2018/sex-on-campus/) |
 | Google Doc | [https://docs.google.com/document/d/1vGjrmXr4Ug2Nfb8PFjjRXYVPC7XHeQaMT2Jr0-05MfQ/edit](https://docs.google.com/document/d/1vGjrmXr4Ug2Nfb8PFjjRXYVPC7XHeQaMT2Jr0-05MfQ/edit) |
 
