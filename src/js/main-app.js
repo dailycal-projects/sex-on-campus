@@ -39,7 +39,7 @@ var markers = L.markerClusterGroup({
       return L.divIcon({ html: html, className: 'mycluster', iconSize: L.point(32, 32) });
     },
     // To disable clustering for now
-    maxClusterRadius: 40
+    maxClusterRadius: 45
 });
 
 // for every line in the spreadsheet, add a point with the lat and long that has the pop message
