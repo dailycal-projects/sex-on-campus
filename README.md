@@ -1,6 +1,6 @@
 # sex-on-campus
 
-| Title | meme-timeline |
+| Title | sex-on-campus |
 |-|-|
 | Developer    | [Ian MacGregor](mailto:imacgregor@dailycal.org) |
 | Link | [http://projects.dailycal.org/2018/sex-on-campus/](http://projects.dailycal.org/2018/sex-on-campus/) |
