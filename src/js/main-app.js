@@ -105,3 +105,6 @@ $("#submit").click(function() {
   }
 })
 
+$("#warning").click(function() {
+  $("#warning").hide();
+})
