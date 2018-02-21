@@ -21,7 +21,7 @@ var map = L.map('map', { scrollWheelZoom:false })
             .setView([37.871470, -122.260363], 15); //'map' refers to map id
 
 if ($(window).width() <= 650) {
-  let m = $("#map").detach();
+  let m = $("#mapContainer").detach();
   $("#drag").after(m);
 }
 
